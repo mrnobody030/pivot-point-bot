@@ -1,6 +1,0 @@
-datetime
-time
-requests
-twelvedata
-telegram
-gunicorn
