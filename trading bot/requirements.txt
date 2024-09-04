@@ -3,3 +3,4 @@ time
 requests
 twelvedata
 telegram
+gunicorn
